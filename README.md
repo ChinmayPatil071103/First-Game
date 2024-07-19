@@ -4,4 +4,4 @@ LoserMind Game I just start game development, and this is just i copied from bra
 
 This is my game created using Godot.
 
-[Download the game](./MyGame/your-game.exe)
+[Download LoserMind Game](./My%20Game/LoserMind%20Game.exe)
